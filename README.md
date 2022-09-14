@@ -1,5 +1,7 @@
 # flutter_check_internet
 
+[Source](https://flutter-developer.medium.com/flutter-how-to-check-internet-connection-b6ce0ec00d5c)
+
 ```
 connectivity: ^3.0.6
 ```
